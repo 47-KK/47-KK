@@ -1,4 +1,6 @@
-## Hi there 👋
+Developer of the tModLoader Star Wars Mod (Havent worked on it in a while)
+Working on some random survival game on Unity right now (haven't thought of a name yet)
+I'm learning Python and C#
 
 <!--
 **47-KK/47-KK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

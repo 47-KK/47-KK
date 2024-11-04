@@ -1,4 +1,4 @@
-- Developer of the tModLoader Star Wars Mod (Havent worked on it in a while)
+- Developer of the tModLoader Star Wars Mod
 - Working on some random survival game on Unity right now (haven't thought of a name yet)
 - I'm learning Python and C#
 
